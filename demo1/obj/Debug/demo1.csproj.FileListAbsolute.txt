@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\demo1.exe.config
 C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\demo1.exe
 C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\demo1.pdb
@@ -9,3 +10,16 @@ C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.csproj.CoreCompile
 C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.csproj.CopyComplete
 C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.exe
 C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.pdb
+=======
+C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\demo1.exe.config
+C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\demo1.exe
+C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\demo1.pdb
+C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\nunit.framework.dll
+C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\nunit.framework.pdb
+C:\Users\marus\source\repos\ConsoleApp1\demo1\bin\Debug\nunit.framework.xml
+C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.csprojAssemblyReference.cache
+C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.csproj.CopyComplete
+C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.exe
+C:\Users\marus\source\repos\ConsoleApp1\demo1\obj\Debug\demo1.pdb
+>>>>>>> 984f4c9b9290616b6d6346ddd2f6c584ce60a113
